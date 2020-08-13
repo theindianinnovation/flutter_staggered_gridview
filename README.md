@@ -1,16 +1,9 @@
 # flutter_staggered_gridview
 
-A new Flutter application.
+A new Griview Layout.
 
-## Getting Started
+### **Staggered GridView Example**
+![WhatsApp Image 2020-08-13 at 12 38 24 PM](https://user-images.githubusercontent.com/66554769/90107278-342d2d00-dd66-11ea-81d7-70f0e191e0a6.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **Link**
+[https://pub.dev/packages/flutter_staggered_grid_view](url)
